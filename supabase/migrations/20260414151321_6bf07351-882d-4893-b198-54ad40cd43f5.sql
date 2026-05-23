@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN doctor_key text;
